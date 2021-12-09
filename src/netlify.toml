@@ -1,0 +1,7 @@
+[build]
+  publish = "dist/survy"
+  command = "ng build --prod"
+[[redirects]]
+  from = "/*"
+  to = "/index.html"[build]
+  status = 200
