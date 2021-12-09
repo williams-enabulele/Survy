@@ -1,5 +1,4 @@
-
-  [build]
+[build]
   publish = "dist/survy"
   command = "ng build --prod"
 [[redirects]]
